@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Setthanan Thongpanchang</h1>
 <h3 align="center">Software Engineering Student at Kasetsart University</h3>
-<img align="right"  style="border-radius:10px;" alt="Coding" width="300" src="https://media.istockphoto.com/id/615712262/vector/multitasking-millennial-concept.jpg?s=612x612&w=0&k=20&c=VymzhbsDqKclTastZLPBHthFmgMzOe1RekTVWIoiu7Q="  />
+<img align="right"  style="border-radius:10px;" alt="Coding" width="300" src="https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reviseuc73&label=Profile%20views&color=0e75b6&style=flat" alt="reviseuc73" /> </p>
 
 <p align="left"> <a href="https://twitter.com/reviseuc73" target="blank"><img src="https://img.shields.io/twitter/follow/reviseuc73?logo=twitter&style=for-the-badge" alt="reviseuc73" /></a> </p>
