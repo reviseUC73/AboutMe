@@ -30,13 +30,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=reviseuc73&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=reviseuc73&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
