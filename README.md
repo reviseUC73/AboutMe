@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-- 🌱 I’m currently learning **Swift and IOS App mobile** 
+- 🌱 I’m currently learning **GoLang and IOS App mobile** 
 
 - 📫 How to reach me **setthanan50@gmail.com**
 
